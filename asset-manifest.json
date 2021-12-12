@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/front-deploy/static/css/main.fa19f2cd.chunk.css",
+    "main.js": "/front-deploy/static/js/main.e04fa0b3.chunk.js",
+    "main.js.map": "/front-deploy/static/js/main.e04fa0b3.chunk.js.map",
+    "runtime-main.js": "/front-deploy/static/js/runtime-main.d193401b.js",
+    "runtime-main.js.map": "/front-deploy/static/js/runtime-main.d193401b.js.map",
+    "static/js/2.3647f80e.chunk.js": "/front-deploy/static/js/2.3647f80e.chunk.js",
+    "static/js/2.3647f80e.chunk.js.map": "/front-deploy/static/js/2.3647f80e.chunk.js.map",
+    "static/js/3.7ee7f5e5.chunk.js": "/front-deploy/static/js/3.7ee7f5e5.chunk.js",
+    "static/js/3.7ee7f5e5.chunk.js.map": "/front-deploy/static/js/3.7ee7f5e5.chunk.js.map",
+    "index.html": "/front-deploy/index.html",
+    "static/css/main.fa19f2cd.chunk.css.map": "/front-deploy/static/css/main.fa19f2cd.chunk.css.map",
+    "static/js/2.3647f80e.chunk.js.LICENSE.txt": "/front-deploy/static/js/2.3647f80e.chunk.js.LICENSE.txt",
+    "static/media/01.85d077fe.svg": "/front-deploy/static/media/01.85d077fe.svg",
+    "static/media/Discovery.f90fe015.svg": "/front-deploy/static/media/Discovery.f90fe015.svg",
+    "static/media/Group.22499bf8.svg": "/front-deploy/static/media/Group.22499bf8.svg",
+    "static/media/PNhCI5vz9pI 1.3a143dd7.svg": "/front-deploy/static/media/PNhCI5vz9pI 1.3a143dd7.svg",
+    "static/media/Phone.65033738.svg": "/front-deploy/static/media/Phone.65033738.svg",
+    "static/media/Vector.590fe082.svg": "/front-deploy/static/media/Vector.590fe082.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d193401b.js",
+    "static/js/2.3647f80e.chunk.js",
+    "static/css/main.fa19f2cd.chunk.css",
+    "static/js/main.e04fa0b3.chunk.js"
+  ]
+}
