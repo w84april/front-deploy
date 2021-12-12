@@ -35,7 +35,7 @@ const Lenta = () => {
     // }
 
     const getImage = () => {
-        const url = `localhost:8000/getImages`;
+        const url = `https://backend-hahathone.herokuapp.com/getImages`;
         axios.get(url, {
             headers: {
                 'Access-Control-Allow-Origin': '*',
