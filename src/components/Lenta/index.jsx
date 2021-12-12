@@ -23,12 +23,22 @@ const Lenta = () => {
 
     useEffect(() => {
         getImage();
+        let timer = setTimeout(() => getImage(), 60000);
+        return () => {
+            clearTimeout(timer);
+        }
     }, [])
 
+    // const sendImage = () => {
+    //     const url = `https://backend-hahathone.herokuapp.com/nft`;
+    //     axios.post(url, )
+    // }
+
     const getImage = () => {
-        const url = `https://backend-hahathone.herokuapp.com/getImages`;
+        const url = `localhost:8000/getImages`;
         axios.get(url, {
             headers: {
+                'Access-Control-Allow-Origin': '*',
                 responseType: 'arraybuffer'
             }
         }).then(res => {
